@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1f60326-52a3-4f72-8798-1f1ed5419b2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z2fMImVZSr4ihXYB4tmmd5EiVI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-first-assigment" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1f60326-52a3-4f72-8798-1f1ed5419b2f" name="Default Changelist" comment="" />
+      <created>1584042059969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584042059969</updated>
+      <workItem from="1584042063769" duration="58000" />
+      <workItem from="1584042155011" duration="2136000" />
+      <workItem from="1584044318071" duration="21872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="692" y="242" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584042789750">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="692" y="242" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.1440.1536.824/-1920.350.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1584042789750" />
+    <state x="755" y="253" key="FileChooserDialogImpl" timestamp="1584208220564">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="253" key="FileChooserDialogImpl/2560.716.1536.824/0.0.2048.1112/-1920.350.1920.1040@0.0.2048.1112" timestamp="1584208220564" />
+    <state x="417" y="113" width="1537" height="889" key="SettingsEditor" timestamp="1584045524458">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="417" y="113" width="1537" height="889" key="SettingsEditor/0.1440.1536.824/-1920.350.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1584045524458" />
+    <state x="597" y="255" width="840" height="1034" key="run.anything.popup" timestamp="1584182927170">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="597" y="255" width="840" height="1034" key="run.anything.popup/2560.716.1536.824/0.0.2048.1112/-1920.350.1920.1040@0.0.2048.1112" timestamp="1584182927170" />
+    <state x="603" y="77" width="840" height="1034" key="search.everywhere.popup" timestamp="1584046264716">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="603" y="77" width="840" height="1034" key="search.everywhere.popup/0.1440.1536.824/-1920.350.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1584046264716" />
+  </component>
+</project>
